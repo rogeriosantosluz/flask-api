@@ -1,4 +1,4 @@
-##LOCAL
+# LOCAL
 
 * python3 -m pip install --upgrade pip
 * python3 -m venv env(PS> virtualenv env)
